@@ -2,7 +2,7 @@ attrs==17.4.0
 botocore==1.17.53
 configparser==3.5.0
 coverage==4.5.4
-enum34==1.1.6
+enum34==1.1.10
 flake8==3.7.9
 funcsigs==1.0.2
 mccabe==0.6.1
