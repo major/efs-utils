@@ -17,7 +17,7 @@ futures = "0.3"
 log = "0.4"
 log4rs = { version = "0", features = ["rolling_file_appender", "compound_policy", "size_trigger", "fixed_window_roller"]}
 nix = { version = "0.26.2", features = ["signal"]}
-onc-rpc = "0.2.3"
+onc-rpc = "0.3.0"
 rand = "0.8.5"
 s2n-tls = "0.0"
 s2n-tls-tokio = "0.0"
